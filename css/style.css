@@ -1,0 +1,8 @@
+.navbar{
+    background: darkcyan !important;
+}
+
+.accordion-button:not(.collapsed) {
+    color: white;
+    background-color: #21d1ce;
+}
